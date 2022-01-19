@@ -1,0 +1,26 @@
+{
+  "name": "definaira",
+  "version": "1.0.0",
+  "description": "a multi-chain cryptocurrency exchange where users can buy and sell their erc20 and bep20 tokens for naira.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdjango/definaira.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerdjango/definaira/issues"
+  },
+  "homepage": "https://github.com/nerdjango/definaira#readme",
+  "dependencies": {
+    "@chainlink/contracts": "^0.3.1",
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
